@@ -12,7 +12,7 @@ public class Logger
     {
         Console.WriteLine("Logger has been initialized.");
     }
-
+ 
     // Public static method to get the single instance of the Logger class
     public static Logger GetInstance()
     {
