@@ -1,0 +1,15 @@
+C:\Users\JACKSON\OneDrive\Desktop\Local dotnet\DOTNET_6376237\Week_1\Week1_Data_structures_and_Algorithms\2_Financial_Forecasting\bin\Debug\net9.0\2_Financial_Forecasting.exe
+C:\Users\JACKSON\OneDrive\Desktop\Local dotnet\DOTNET_6376237\Week_1\Week1_Data_structures_and_Algorithms\2_Financial_Forecasting\bin\Debug\net9.0\2_Financial_Forecasting.deps.json
+C:\Users\JACKSON\OneDrive\Desktop\Local dotnet\DOTNET_6376237\Week_1\Week1_Data_structures_and_Algorithms\2_Financial_Forecasting\bin\Debug\net9.0\2_Financial_Forecasting.runtimeconfig.json
+C:\Users\JACKSON\OneDrive\Desktop\Local dotnet\DOTNET_6376237\Week_1\Week1_Data_structures_and_Algorithms\2_Financial_Forecasting\bin\Debug\net9.0\2_Financial_Forecasting.dll
+C:\Users\JACKSON\OneDrive\Desktop\Local dotnet\DOTNET_6376237\Week_1\Week1_Data_structures_and_Algorithms\2_Financial_Forecasting\bin\Debug\net9.0\2_Financial_Forecasting.pdb
+C:\Users\JACKSON\OneDrive\Desktop\Local dotnet\DOTNET_6376237\Week_1\Week1_Data_structures_and_Algorithms\2_Financial_Forecasting\obj\Debug\net9.0\2_Financial_Forecasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JACKSON\OneDrive\Desktop\Local dotnet\DOTNET_6376237\Week_1\Week1_Data_structures_and_Algorithms\2_Financial_Forecasting\obj\Debug\net9.0\2_Financial_Forecasting.AssemblyInfoInputs.cache
+C:\Users\JACKSON\OneDrive\Desktop\Local dotnet\DOTNET_6376237\Week_1\Week1_Data_structures_and_Algorithms\2_Financial_Forecasting\obj\Debug\net9.0\2_Financial_Forecasting.AssemblyInfo.cs
+C:\Users\JACKSON\OneDrive\Desktop\Local dotnet\DOTNET_6376237\Week_1\Week1_Data_structures_and_Algorithms\2_Financial_Forecasting\obj\Debug\net9.0\2_Financial_Forecasting.csproj.CoreCompileInputs.cache
+C:\Users\JACKSON\OneDrive\Desktop\Local dotnet\DOTNET_6376237\Week_1\Week1_Data_structures_and_Algorithms\2_Financial_Forecasting\obj\Debug\net9.0\2_Financial_Forecasting.sourcelink.json
+C:\Users\JACKSON\OneDrive\Desktop\Local dotnet\DOTNET_6376237\Week_1\Week1_Data_structures_and_Algorithms\2_Financial_Forecasting\obj\Debug\net9.0\2_Financial_Forecasting.dll
+C:\Users\JACKSON\OneDrive\Desktop\Local dotnet\DOTNET_6376237\Week_1\Week1_Data_structures_and_Algorithms\2_Financial_Forecasting\obj\Debug\net9.0\refint\2_Financial_Forecasting.dll
+C:\Users\JACKSON\OneDrive\Desktop\Local dotnet\DOTNET_6376237\Week_1\Week1_Data_structures_and_Algorithms\2_Financial_Forecasting\obj\Debug\net9.0\2_Financial_Forecasting.pdb
+C:\Users\JACKSON\OneDrive\Desktop\Local dotnet\DOTNET_6376237\Week_1\Week1_Data_structures_and_Algorithms\2_Financial_Forecasting\obj\Debug\net9.0\2_Financial_Forecasting.genruntimeconfig.cache
+C:\Users\JACKSON\OneDrive\Desktop\Local dotnet\DOTNET_6376237\Week_1\Week1_Data_structures_and_Algorithms\2_Financial_Forecasting\obj\Debug\net9.0\ref\2_Financial_Forecasting.dll
