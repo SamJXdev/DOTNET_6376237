@@ -1,0 +1,10 @@
+ProductID,ProductName,Category,Price,RowNum
+9,Jacket,Apparel,60.00,1
+8,Jeans,Apparel,40.00,2
+6,"T-shirt A",Apparel,25.00,3
+12,"Book B",Books,20.00,1
+13,"Book C",Books,20.00,2
+11,"Book A",Books,15.00,3
+1,"Laptop A",Electronics,1200.00,1
+2,"Laptop B",Electronics,1100.00,2
+3,"Smartphone A",Electronics,800.00,3
